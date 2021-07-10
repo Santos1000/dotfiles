@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = barabaransantos1@gmail.com
+	name = Barbara Santos
