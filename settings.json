@@ -27,7 +27,7 @@
     "workbench.settings.editor": "json",
     "workbench.settings.openDefaultSettings": true,
     "workbench.settings.useSplitJSON": true,
-    "workbench.iconTheme": "vscode-great-icons",
+    "workbench.iconTheme": "material-icon-theme",
     "files.hotExit": "off",
     "files.insertFinalNewline": true,
     "files.trimFinalNewlines": true,
@@ -75,5 +75,13 @@
     {
         "rubocop": true
     },
-    "workbench.startupEditor": "newUntitledFile"
+    "workbench.startupEditor": "newUntitledFile",
+    "workbench.editor.splitInGroupLayout": "vertical",
+    "bracket-pair-colorizer-2.depreciation-notice": false,
+    "files.autoSave": "afterDelay",
+    "gitlens.advanced.messages": {
+      "suppressGitDisabledWarning": true,
+      "suppressGitMissingWarning": true
+    },
+    "javascript.updateImportsOnFileMove.enabled": "always"
 }
